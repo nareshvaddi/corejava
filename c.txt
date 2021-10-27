@@ -1,0 +1,15 @@
+<html>
+<body>
+
+<h2> get the parameters</h2>
+<form action="studentServlet" method="get">
+firstName:<input type="text" name="firstName"/>
+<hr></br>
+LastName:<input type="text" name="lastName"/>
+<hr></br>
+<input type="submit" value="Submit"/>
+
+</form>
+
+</body>
+<</html>
